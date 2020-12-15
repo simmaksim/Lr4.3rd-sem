@@ -1,0 +1,34 @@
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\Lr2WindowsService.ProjectInstaller.resources
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\bin\Debug\System.Buffers.dll
+C:\PTUIR\3 semestr\ISP\Lr4\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Lr4\FileManager\bin\Debug\FileManager.dll.config
+C:\Lr4\FileManager\bin\Debug\FileManager.dll
+C:\Lr4\FileManager\bin\Debug\FileManager.pdb
+C:\Lr4\FileManager\bin\Debug\System.Buffers.dll
+C:\Lr4\FileManager\bin\Debug\System.Memory.dll
+C:\Lr4\FileManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\FileManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\FileManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\FileManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Lr4\FileManager\obj\Debug\Lr4Win.ProjectInstaller.resources
+C:\Lr4\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Lr4\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\Lr4\FileManager\obj\Debug\FileManager.dll
+C:\Lr4\FileManager\obj\Debug\FileManager.pdb

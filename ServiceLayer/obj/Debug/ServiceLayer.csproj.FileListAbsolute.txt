@@ -1,0 +1,45 @@
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\Models.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\Models.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\DataAccessLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\ErrorLogger.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ServiceLayer\bin\Debug\ErrorLogger.pdb
+C:\Lr4\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Lr4\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Lr4\ServiceLayer\bin\Debug\DataAccessLayer.dll
+C:\Lr4\ServiceLayer\bin\Debug\ErrorLogger.dll
+C:\Lr4\ServiceLayer\bin\Debug\Models.dll
+C:\Lr4\ServiceLayer\bin\Debug\FileManager.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Memory.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\ServiceLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Buffers.dll
+C:\Lr4\ServiceLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+C:\Lr4\ServiceLayer\bin\Debug\ErrorLogger.pdb
+C:\Lr4\ServiceLayer\bin\Debug\Models.pdb
+C:\Lr4\ServiceLayer\bin\Debug\FileManager.pdb
+C:\Lr4\ServiceLayer\bin\Debug\FileManager.dll.config
+C:\Lr4\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Lr4\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Lr4\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Lr4\ServiceLayer\obj\Debug\ServiceLayer.pdb

@@ -1,0 +1,75 @@
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\DataManager.exe.config
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\DataManager.exe
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\DataManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\MainWindow.g.cs
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\App.g.cs
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager_MarkupCompile.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager_MarkupCompile.lref
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\MainWindow.baml
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.g.resources
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.Properties.Resources.resources
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.csproj.GenerateResource.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.exe
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\DataAccessLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\Models.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\DataAccessLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\Models.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\obj\Debug\DataManager.exe.config
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\System.Buffers.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ConfigurationManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ServiceLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ConfigurationManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ServiceLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ErrorLogger.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataManager\bin\Debug\ErrorLogger.pdb
+C:\Lr4\DataManager\bin\Debug\DataManager.exe.config
+C:\Lr4\DataManager\bin\Debug\DataManager.exe
+C:\Lr4\DataManager\bin\Debug\DataManager.pdb
+C:\Lr4\DataManager\bin\Debug\ConfigurationManager.dll
+C:\Lr4\DataManager\bin\Debug\DataAccessLayer.dll
+C:\Lr4\DataManager\bin\Debug\ErrorLogger.dll
+C:\Lr4\DataManager\bin\Debug\FileManager.dll
+C:\Lr4\DataManager\bin\Debug\Models.dll
+C:\Lr4\DataManager\bin\Debug\ServiceLayer.dll
+C:\Lr4\DataManager\bin\Debug\System.Buffers.dll
+C:\Lr4\DataManager\bin\Debug\System.Text.Json.dll
+C:\Lr4\DataManager\bin\Debug\System.Memory.dll
+C:\Lr4\DataManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\DataManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\DataManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\DataManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\DataManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\DataManager\bin\Debug\ConfigurationManager.pdb
+C:\Lr4\DataManager\bin\Debug\DataAccessLayer.pdb
+C:\Lr4\DataManager\bin\Debug\ErrorLogger.pdb
+C:\Lr4\DataManager\bin\Debug\FileManager.pdb
+C:\Lr4\DataManager\bin\Debug\FileManager.dll.config
+C:\Lr4\DataManager\bin\Debug\Models.pdb
+C:\Lr4\DataManager\bin\Debug\ServiceLayer.pdb
+C:\Lr4\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Lr4\DataManager\obj\Debug\DataManager.exe.config
+C:\Lr4\DataManager\obj\Debug\MainWindow.g.cs
+C:\Lr4\DataManager\obj\Debug\App.g.cs
+C:\Lr4\DataManager\obj\Debug\DataManager_MarkupCompile.cache
+C:\Lr4\DataManager\obj\Debug\DataManager_MarkupCompile.lref
+C:\Lr4\DataManager\obj\Debug\MainWindow.baml
+C:\Lr4\DataManager\obj\Debug\DataManager.g.resources
+C:\Lr4\DataManager\obj\Debug\DataManager.Properties.Resources.resources
+C:\Lr4\DataManager\obj\Debug\DataManager.csproj.GenerateResource.cache
+C:\Lr4\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Lr4\DataManager\obj\Debug\DataManager.exe
+C:\Lr4\DataManager\obj\Debug\DataManager.pdb

@@ -1,0 +1,46 @@
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\Models.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\Models.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\ConfigurationManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\ConfigurationManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\ErrorLogger.dll
+C:\PTUIR\3 semestr\ISP\Lr4\DataAccessLayer\bin\Debug\ErrorLogger.pdb
+C:\Lr4\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Lr4\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Lr4\DataAccessLayer\bin\Debug\ConfigurationManager.dll
+C:\Lr4\DataAccessLayer\bin\Debug\ErrorLogger.dll
+C:\Lr4\DataAccessLayer\bin\Debug\FileManager.dll
+C:\Lr4\DataAccessLayer\bin\Debug\Models.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Text.Json.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Lr4\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\DataAccessLayer\bin\Debug\ConfigurationManager.pdb
+C:\Lr4\DataAccessLayer\bin\Debug\ErrorLogger.pdb
+C:\Lr4\DataAccessLayer\bin\Debug\FileManager.pdb
+C:\Lr4\DataAccessLayer\bin\Debug\FileManager.dll.config
+C:\Lr4\DataAccessLayer\bin\Debug\Models.pdb
+C:\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Lr4\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

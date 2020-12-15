@@ -1,0 +1,34 @@
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\ConfigurationManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.csprojAssemblyReference.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CopyComplete
+C:\Lr4\ConfigurationManager\bin\Debug\ConfigurationManager.dll
+C:\Lr4\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Lr4\ConfigurationManager\bin\Debug\FileManager.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Text.Json.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Memory.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\ConfigurationManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Buffers.dll
+C:\Lr4\ConfigurationManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\ConfigurationManager\bin\Debug\FileManager.pdb
+C:\Lr4\ConfigurationManager\bin\Debug\FileManager.dll.config
+C:\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.csprojAssemblyReference.cache
+C:\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CopyComplete
+C:\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.dll
+C:\Lr4\ConfigurationManager\obj\Debug\ConfigurationManager.pdb

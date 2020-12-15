@@ -1,0 +1,34 @@
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\ErrorLogger.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\ErrorLogger.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\FileManager.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Text.Json.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Memory.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Text.Encodings.Web.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Numerics.Vectors.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\FileManager.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\bin\Debug\FileManager.dll.config
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\obj\Debug\LoggerToDB.csprojAssemblyReference.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\obj\Debug\LoggerToDB.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\obj\Debug\LoggerToDB.csproj.CopyComplete
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\obj\Debug\ErrorLogger.dll
+C:\PTUIR\3 semestr\ISP\Lr4\ErrorLogger\obj\Debug\ErrorLogger.pdb
+C:\Lr4\ErrorLogger\bin\Debug\ErrorLogger.dll
+C:\Lr4\ErrorLogger\bin\Debug\ErrorLogger.pdb
+C:\Lr4\ErrorLogger\bin\Debug\FileManager.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Text.Json.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Memory.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Numerics.Vectors.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lr4\ErrorLogger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Buffers.dll
+C:\Lr4\ErrorLogger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lr4\ErrorLogger\bin\Debug\FileManager.pdb
+C:\Lr4\ErrorLogger\bin\Debug\FileManager.dll.config
+C:\Lr4\ErrorLogger\obj\Debug\LoggerToDB.csprojAssemblyReference.cache
+C:\Lr4\ErrorLogger\obj\Debug\LoggerToDB.csproj.CopyComplete
+C:\Lr4\ErrorLogger\obj\Debug\ErrorLogger.dll
+C:\Lr4\ErrorLogger\obj\Debug\ErrorLogger.pdb
